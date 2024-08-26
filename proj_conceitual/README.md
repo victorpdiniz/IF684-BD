@@ -21,3 +21,9 @@
 | **Outros**                                     |                |
 | Entidade Associativa                           | Implementado ✅ |
 | Herança (Qualquer Tipo)                        | Implementado ✅ |
+
+---
+---
+
+# Modelo Conceitual
+<img src="clinica-medica.png">
