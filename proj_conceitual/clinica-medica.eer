@@ -6,7 +6,7 @@
     <styles xmi:type="notation:FontStyle" xmi:id="_Ueak9Ge7Ee-PD8xUaUQ5hw" fontName="Segoe UI" fontHeight="10"/>
     <styles xmi:type="notation:FillStyle" xmi:id="_Ueak9We7Ee-PD8xUaUQ5hw"/>
     <element xmi:type="eer:Entity" href="clinica-medica.eer#_Z0MhoF_KEe-w_L0rPn5L2w"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ueak9me7Ee-PD8xUaUQ5hw" x="230" y="217" width="79" height="43"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ueak9me7Ee-PD8xUaUQ5hw" x="230" y="127" width="79" height="43"/>
   </children>
   <children xmi:type="notation:Node" xmi:id="_Ueak92e7Ee-PD8xUaUQ5hw" type="2004">
     <children xmi:type="notation:DecorationNode" xmi:id="_Ueak-Ge7Ee-PD8xUaUQ5hw" type="5005"/>
@@ -14,7 +14,7 @@
     <styles xmi:type="notation:FontStyle" xmi:id="_Ueak-me7Ee-PD8xUaUQ5hw" fontName="Segoe UI" fontHeight="10"/>
     <styles xmi:type="notation:FillStyle" xmi:id="_Ueak-2e7Ee-PD8xUaUQ5hw"/>
     <element xmi:type="eer:Attribute" href="clinica-medica.eer#_dHKHMF_KEe-w_L0rPn5L2w"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ueak_Ge7Ee-PD8xUaUQ5hw" x="110" y="100"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ueak_Ge7Ee-PD8xUaUQ5hw" x="110" y="10"/>
   </children>
   <children xmi:type="notation:Node" xmi:id="_Ueak_We7Ee-PD8xUaUQ5hw" type="2004">
     <children xmi:type="notation:DecorationNode" xmi:id="_Ueak_me7Ee-PD8xUaUQ5hw" type="5005"/>
@@ -46,7 +46,7 @@
     <styles xmi:type="notation:FontStyle" xmi:id="_UealEme7Ee-PD8xUaUQ5hw" fontName="Segoe UI" fontHeight="10"/>
     <styles xmi:type="notation:FillStyle" xmi:id="_UealE2e7Ee-PD8xUaUQ5hw"/>
     <element xmi:type="eer:Relationship" href="clinica-medica.eer#__RwvUF_KEe-w_L0rPn5L2w"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UealFGe7Ee-PD8xUaUQ5hw" x="220" y="305"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UealFGe7Ee-PD8xUaUQ5hw" x="220" y="215"/>
   </children>
   <children xmi:type="notation:Node" xmi:id="_UealFWe7Ee-PD8xUaUQ5hw" type="2003">
     <children xmi:type="notation:DecorationNode" xmi:id="_UealFme7Ee-PD8xUaUQ5hw" type="5004"/>
@@ -62,7 +62,7 @@
     <styles xmi:type="notation:FontStyle" xmi:id="_UealHme7Ee-PD8xUaUQ5hw" fontName="Segoe UI" fontHeight="10"/>
     <styles xmi:type="notation:FillStyle" xmi:id="_UealH2e7Ee-PD8xUaUQ5hw"/>
     <element xmi:type="eer:Attribute" href="clinica-medica.eer#_XmYw0F_LEe-w_L0rPn5L2w"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UealIGe7Ee-PD8xUaUQ5hw" x="215" y="100"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UealIGe7Ee-PD8xUaUQ5hw" x="215" y="10"/>
   </children>
   <children xmi:type="notation:Node" xmi:id="_UealIWe7Ee-PD8xUaUQ5hw" type="2004">
     <children xmi:type="notation:DecorationNode" xmi:id="_UealIme7Ee-PD8xUaUQ5hw" type="5005"/>
@@ -70,7 +70,7 @@
     <styles xmi:type="notation:FontStyle" xmi:id="_UealJGe7Ee-PD8xUaUQ5hw" fontName="Segoe UI" fontHeight="10"/>
     <styles xmi:type="notation:FillStyle" xmi:id="_UealJWe7Ee-PD8xUaUQ5hw"/>
     <element xmi:type="eer:Attribute" href="clinica-medica.eer#_XvTcQF_LEe-w_L0rPn5L2w"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UealJme7Ee-PD8xUaUQ5hw" x="320" y="100"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UealJme7Ee-PD8xUaUQ5hw" x="320" y="10"/>
   </children>
   <children xmi:type="notation:Node" xmi:id="_UealJ2e7Ee-PD8xUaUQ5hw" type="2004">
     <children xmi:type="notation:DecorationNode" xmi:id="_UealKGe7Ee-PD8xUaUQ5hw" type="5005"/>
@@ -78,7 +78,7 @@
     <styles xmi:type="notation:FontStyle" xmi:id="_UealKme7Ee-PD8xUaUQ5hw" fontName="Segoe UI" fontHeight="10"/>
     <styles xmi:type="notation:FillStyle" xmi:id="_UealK2e7Ee-PD8xUaUQ5hw"/>
     <element xmi:type="eer:Attribute" href="clinica-medica.eer#_YNnI4F_LEe-w_L0rPn5L2w"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UealLGe7Ee-PD8xUaUQ5hw" x="80" y="330"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UealLGe7Ee-PD8xUaUQ5hw" x="325" y="465"/>
   </children>
   <children xmi:type="notation:Node" xmi:id="_UealLWe7Ee-PD8xUaUQ5hw" type="2004">
     <children xmi:type="notation:DecorationNode" xmi:id="_UealLme7Ee-PD8xUaUQ5hw" type="5005"/>
@@ -86,7 +86,7 @@
     <styles xmi:type="notation:FontStyle" xmi:id="_UealMGe7Ee-PD8xUaUQ5hw" fontName="Segoe UI" fontHeight="10"/>
     <styles xmi:type="notation:FillStyle" xmi:id="_UealMWe7Ee-PD8xUaUQ5hw"/>
     <element xmi:type="eer:Attribute" href="clinica-medica.eer#_YVqRoF_LEe-w_L0rPn5L2w"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UealMme7Ee-PD8xUaUQ5hw" x="75" y="460"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UealMme7Ee-PD8xUaUQ5hw" x="135" y="465"/>
   </children>
   <children xmi:type="notation:Node" xmi:id="_UealM2e7Ee-PD8xUaUQ5hw" type="2004">
     <children xmi:type="notation:DecorationNode" xmi:id="_UealNGe7Ee-PD8xUaUQ5hw" type="5005"/>
@@ -94,7 +94,7 @@
     <styles xmi:type="notation:FontStyle" xmi:id="_UealNme7Ee-PD8xUaUQ5hw" fontName="Segoe UI" fontHeight="10"/>
     <styles xmi:type="notation:FillStyle" xmi:id="_UealN2e7Ee-PD8xUaUQ5hw"/>
     <element xmi:type="eer:Attribute" href="clinica-medica.eer#_YonC0F_LEe-w_L0rPn5L2w"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UealOGe7Ee-PD8xUaUQ5hw" x="226" y="472"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UealOGe7Ee-PD8xUaUQ5hw" x="230" y="465"/>
   </children>
   <children xmi:type="notation:Node" xmi:id="_UealOWe7Ee-PD8xUaUQ5hw" type="2004">
     <children xmi:type="notation:DecorationNode" xmi:id="_UealOme7Ee-PD8xUaUQ5hw" type="5005"/>
@@ -102,7 +102,7 @@
     <styles xmi:type="notation:FontStyle" xmi:id="_UealPGe7Ee-PD8xUaUQ5hw" fontName="Segoe UI" fontHeight="10"/>
     <styles xmi:type="notation:FillStyle" xmi:id="_UealPWe7Ee-PD8xUaUQ5hw"/>
     <element xmi:type="eer:Attribute" href="clinica-medica.eer#_YyHkIF_LEe-w_L0rPn5L2w"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UealPme7Ee-PD8xUaUQ5hw" x="333" y="538"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UealPme7Ee-PD8xUaUQ5hw" x="330" y="585"/>
   </children>
   <children xmi:type="notation:Node" xmi:id="_UealP2e7Ee-PD8xUaUQ5hw" type="2004">
     <children xmi:type="notation:DecorationNode" xmi:id="_UealQGe7Ee-PD8xUaUQ5hw" type="5005"/>
@@ -110,7 +110,7 @@
     <styles xmi:type="notation:FontStyle" xmi:id="_UealQme7Ee-PD8xUaUQ5hw" fontName="Segoe UI" fontHeight="10"/>
     <styles xmi:type="notation:FillStyle" xmi:id="_UealQ2e7Ee-PD8xUaUQ5hw"/>
     <element xmi:type="eer:Attribute" href="clinica-medica.eer#_Y4IskF_LEe-w_L0rPn5L2w"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UealRGe7Ee-PD8xUaUQ5hw" x="239" y="538"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UealRGe7Ee-PD8xUaUQ5hw" x="230" y="585"/>
   </children>
   <children xmi:type="notation:Node" xmi:id="_UealRWe7Ee-PD8xUaUQ5hw" type="2004">
     <children xmi:type="notation:DecorationNode" xmi:id="_UealRme7Ee-PD8xUaUQ5hw" type="5005"/>
@@ -118,7 +118,7 @@
     <styles xmi:type="notation:FontStyle" xmi:id="_UealSGe7Ee-PD8xUaUQ5hw" fontName="Segoe UI" fontHeight="10"/>
     <styles xmi:type="notation:FillStyle" xmi:id="_UealSWe7Ee-PD8xUaUQ5hw"/>
     <element xmi:type="eer:Attribute" href="clinica-medica.eer#_Y-cI4F_LEe-w_L0rPn5L2w"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UealSme7Ee-PD8xUaUQ5hw" x="147" y="538"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UealSme7Ee-PD8xUaUQ5hw" x="135" y="585"/>
   </children>
   <children xmi:type="notation:Node" xmi:id="_UealS2e7Ee-PD8xUaUQ5hw" type="2004">
     <children xmi:type="notation:DecorationNode" xmi:id="_UealTGe7Ee-PD8xUaUQ5hw" type="5005"/>
@@ -126,7 +126,7 @@
     <styles xmi:type="notation:FontStyle" xmi:id="_UealTme7Ee-PD8xUaUQ5hw" fontName="Segoe UI" fontHeight="10"/>
     <styles xmi:type="notation:FillStyle" xmi:id="_UealT2e7Ee-PD8xUaUQ5hw"/>
     <element xmi:type="eer:Attribute" href="clinica-medica.eer#_ZEFd4F_LEe-w_L0rPn5L2w"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UealUGe7Ee-PD8xUaUQ5hw" x="52" y="538"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UealUGe7Ee-PD8xUaUQ5hw" x="40" y="585"/>
   </children>
   <children xmi:type="notation:Node" xmi:id="_UealUWe7Ee-PD8xUaUQ5hw" type="2004">
     <children xmi:type="notation:DecorationNode" xmi:id="_UealUme7Ee-PD8xUaUQ5hw" type="5005"/>
@@ -134,7 +134,7 @@
     <styles xmi:type="notation:FontStyle" xmi:id="_UealVGe7Ee-PD8xUaUQ5hw" fontName="Segoe UI" fontHeight="10"/>
     <styles xmi:type="notation:FillStyle" xmi:id="_UealVWe7Ee-PD8xUaUQ5hw"/>
     <element xmi:type="eer:Attribute" href="clinica-medica.eer#_ZLXKkF_LEe-w_L0rPn5L2w"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UealVme7Ee-PD8xUaUQ5hw" x="427" y="537"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UealVme7Ee-PD8xUaUQ5hw" x="425" y="585"/>
   </children>
   <children xmi:type="notation:Node" xmi:id="_UealV2e7Ee-PD8xUaUQ5hw" type="2004">
     <children xmi:type="notation:DecorationNode" xmi:id="_UealWGe7Ee-PD8xUaUQ5hw" type="5005"/>
@@ -158,7 +158,7 @@
     <styles xmi:type="notation:FontStyle" xmi:id="_UealZme7Ee-PD8xUaUQ5hw" fontName="Segoe UI"/>
     <styles xmi:type="notation:FillStyle" xmi:id="_UealZ2e7Ee-PD8xUaUQ5hw"/>
     <element xmi:type="eer:Entity" href="clinica-medica.eer#_TyUHkGCiEe-rVdkXQStnoA"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UealaGe7Ee-PD8xUaUQ5hw" x="1310" y="604" width="89"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UealaGe7Ee-PD8xUaUQ5hw" x="1325" y="604" width="89"/>
   </children>
   <children xmi:type="notation:Node" xmi:id="_UealaWe7Ee-PD8xUaUQ5hw" type="2003">
     <children xmi:type="notation:DecorationNode" xmi:id="_Uealame7Ee-PD8xUaUQ5hw" type="5004"/>
@@ -174,11 +174,7 @@
     <styles xmi:type="notation:FontStyle" xmi:id="_Uealcme7Ee-PD8xUaUQ5hw" fontName="Segoe UI"/>
     <styles xmi:type="notation:FillStyle" xmi:id="_Uealc2e7Ee-PD8xUaUQ5hw"/>
     <element xmi:type="eer:Attribute" href="clinica-medica.eer#_iDIrYGCuEe-rVdkXQStnoA"/>
-<<<<<<< HEAD
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UealdGe7Ee-PD8xUaUQ5hw" x="1440" y="665"/>
-=======
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UealdGe7Ee-PD8xUaUQ5hw" x="1419" y="634"/>
->>>>>>> refs/remotes/origin/main
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UealdGe7Ee-PD8xUaUQ5hw" x="1455" y="650"/>
   </children>
   <children xmi:type="notation:Node" xmi:id="_UealdWe7Ee-PD8xUaUQ5hw" type="2002">
     <children xmi:type="notation:DecorationNode" xmi:id="_Uealdme7Ee-PD8xUaUQ5hw" type="5003"/>
@@ -197,7 +193,7 @@
     <styles xmi:type="notation:FillStyle" xmi:id="_UealgGe7Ee-PD8xUaUQ5hw"/>
     <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_UealgWe7Ee-PD8xUaUQ5hw"/>
     <element xmi:type="eer:AssociativeEntity" href="clinica-medica.eer#_g1PAoGIpEe-LuMUltiSBbQ"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Uealgme7Ee-PD8xUaUQ5hw" x="1054" y="569"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Uealgme7Ee-PD8xUaUQ5hw" x="1069" y="569"/>
   </children>
   <children xmi:type="notation:Node" xmi:id="_Uealg2e7Ee-PD8xUaUQ5hw" type="2005">
     <children xmi:type="notation:DecorationNode" xmi:id="_UealhGe7Ee-PD8xUaUQ5hw" type="5006"/>
@@ -213,7 +209,7 @@
     <styles xmi:type="notation:FontStyle" xmi:id="_UealjGe7Ee-PD8xUaUQ5hw" fontName="Segoe UI"/>
     <styles xmi:type="notation:FillStyle" xmi:id="_UealjWe7Ee-PD8xUaUQ5hw"/>
     <element xmi:type="eer:Entity" href="clinica-medica.eer#_WMbZcGIqEe-LuMUltiSBbQ"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Uealjme7Ee-PD8xUaUQ5hw" x="894" y="604"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Uealjme7Ee-PD8xUaUQ5hw" x="909" y="604"/>
   </children>
   <children xmi:type="notation:Node" xmi:id="_Uealj2e7Ee-PD8xUaUQ5hw" type="2001">
     <children xmi:type="notation:DecorationNode" xmi:id="_UealkGe7Ee-PD8xUaUQ5hw" type="5001"/>
@@ -237,7 +233,7 @@
     <styles xmi:type="notation:FontStyle" xmi:id="_Uealnme7Ee-PD8xUaUQ5hw" fontName="Segoe UI"/>
     <styles xmi:type="notation:FillStyle" xmi:id="_Uealn2e7Ee-PD8xUaUQ5hw"/>
     <element xmi:type="eer:Attribute" href="clinica-medica.eer#_ryEFIGIqEe-LuMUltiSBbQ"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UealoGe7Ee-PD8xUaUQ5hw" x="875" y="672"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UealoGe7Ee-PD8xUaUQ5hw" x="890" y="672"/>
   </children>
   <children xmi:type="notation:Node" xmi:id="_UealoWe7Ee-PD8xUaUQ5hw" type="2001">
     <children xmi:type="notation:DecorationNode" xmi:id="_Uealome7Ee-PD8xUaUQ5hw" type="5001"/>
@@ -245,7 +241,7 @@
     <styles xmi:type="notation:FontStyle" xmi:id="_UealpGe7Ee-PD8xUaUQ5hw" fontName="Segoe UI"/>
     <styles xmi:type="notation:FillStyle" xmi:id="_UealpWe7Ee-PD8xUaUQ5hw"/>
     <element xmi:type="eer:Entity" href="clinica-medica.eer#_fZAL0GIsEe-LuMUltiSBbQ"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Uealpme7Ee-PD8xUaUQ5hw" x="1085" y="317" width="68" height="49"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Uealpme7Ee-PD8xUaUQ5hw" x="1080" y="317" width="126" height="49"/>
   </children>
   <children xmi:type="notation:Node" xmi:id="_Uealp2e7Ee-PD8xUaUQ5hw" type="2004">
     <children xmi:type="notation:DecorationNode" xmi:id="_UealqGe7Ee-PD8xUaUQ5hw" type="5005"/>
@@ -253,7 +249,7 @@
     <styles xmi:type="notation:FontStyle" xmi:id="_Uealqme7Ee-PD8xUaUQ5hw" fontName="Segoe UI"/>
     <styles xmi:type="notation:FillStyle" xmi:id="_Uealq2e7Ee-PD8xUaUQ5hw"/>
     <element xmi:type="eer:Attribute" href="clinica-medica.eer#_z8MjEGIsEe-LuMUltiSBbQ"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UealrGe7Ee-PD8xUaUQ5hw" x="1057" y="250"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UealrGe7Ee-PD8xUaUQ5hw" x="1082" y="250"/>
   </children>
   <children xmi:type="notation:Node" xmi:id="_UealrWe7Ee-PD8xUaUQ5hw" type="2003">
     <children xmi:type="notation:DecorationNode" xmi:id="_Uealrme7Ee-PD8xUaUQ5hw" type="5004"/>
@@ -269,7 +265,7 @@
     <styles xmi:type="notation:FontStyle" xmi:id="_Uealtme7Ee-PD8xUaUQ5hw" fontName="Segoe UI"/>
     <styles xmi:type="notation:FillStyle" xmi:id="_Uealt2e7Ee-PD8xUaUQ5hw"/>
     <element xmi:type="eer:Entity" href="clinica-medica.eer#_5BPikGIyEe-LuMUltiSBbQ"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UealuGe7Ee-PD8xUaUQ5hw" x="1066" y="875" width="119" height="50"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UealuGe7Ee-PD8xUaUQ5hw" x="1081" y="875" width="119" height="50"/>
   </children>
   <children xmi:type="notation:Node" xmi:id="_UealuWe7Ee-PD8xUaUQ5hw" type="2004">
     <children xmi:type="notation:DecorationNode" xmi:id="_Uealume7Ee-PD8xUaUQ5hw" type="5005"/>
@@ -277,7 +273,7 @@
     <styles xmi:type="notation:FontStyle" xmi:id="_UealvGe7Ee-PD8xUaUQ5hw" fontName="Segoe UI"/>
     <styles xmi:type="notation:FillStyle" xmi:id="_UealvWe7Ee-PD8xUaUQ5hw"/>
     <element xmi:type="eer:Attribute" href="clinica-medica.eer#_RA5ZoGIzEe-LuMUltiSBbQ"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Uealvme7Ee-PD8xUaUQ5hw" x="1136" y="941"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Uealvme7Ee-PD8xUaUQ5hw" x="1151" y="941"/>
   </children>
   <children xmi:type="notation:Node" xmi:id="_Uealv2e7Ee-PD8xUaUQ5hw" type="2004">
     <children xmi:type="notation:DecorationNode" xmi:id="_UealwGe7Ee-PD8xUaUQ5hw" type="5005"/>
@@ -285,7 +281,7 @@
     <styles xmi:type="notation:FontStyle" xmi:id="_Uealwme7Ee-PD8xUaUQ5hw" fontName="Segoe UI"/>
     <styles xmi:type="notation:FillStyle" xmi:id="_Uealw2e7Ee-PD8xUaUQ5hw"/>
     <element xmi:type="eer:Attribute" href="clinica-medica.eer#_jM7sQGIzEe-LuMUltiSBbQ"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UealxGe7Ee-PD8xUaUQ5hw" x="966" y="837"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UealxGe7Ee-PD8xUaUQ5hw" x="981" y="837"/>
   </children>
   <children xmi:type="notation:Node" xmi:id="_UealxWe7Ee-PD8xUaUQ5hw" type="2004">
     <children xmi:type="notation:DecorationNode" xmi:id="_Uealxme7Ee-PD8xUaUQ5hw" type="5005"/>
@@ -293,7 +289,7 @@
     <styles xmi:type="notation:FontStyle" xmi:id="_UealyGe7Ee-PD8xUaUQ5hw" fontName="Segoe UI"/>
     <styles xmi:type="notation:FillStyle" xmi:id="_UealyWe7Ee-PD8xUaUQ5hw"/>
     <element xmi:type="eer:Attribute" href="clinica-medica.eer#_qQRMIGIzEe-LuMUltiSBbQ"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Uealyme7Ee-PD8xUaUQ5hw" x="1044" y="941"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Uealyme7Ee-PD8xUaUQ5hw" x="1059" y="941"/>
   </children>
   <children xmi:type="notation:Node" xmi:id="_Uealy2e7Ee-PD8xUaUQ5hw" type="2004">
     <children xmi:type="notation:DecorationNode" xmi:id="_UealzGe7Ee-PD8xUaUQ5hw" type="5005"/>
@@ -301,15 +297,7 @@
     <styles xmi:type="notation:FontStyle" xmi:id="_Uealzme7Ee-PD8xUaUQ5hw" fontName="Segoe UI"/>
     <styles xmi:type="notation:FillStyle" xmi:id="_Uealz2e7Ee-PD8xUaUQ5hw"/>
     <element xmi:type="eer:Attribute" href="clinica-medica.eer#_xYLGMGPkEe-BpJTekpwCRA"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ueal0Ge7Ee-PD8xUaUQ5hw" x="1177" y="680" width="84" height="36"/>
-  </children>
-  <children xmi:type="notation:Node" xmi:id="_Ueal0We7Ee-PD8xUaUQ5hw" type="2003">
-    <children xmi:type="notation:DecorationNode" xmi:id="_Ueal0me7Ee-PD8xUaUQ5hw" type="5004"/>
-    <styles xmi:type="notation:DescriptionStyle" xmi:id="_Ueal02e7Ee-PD8xUaUQ5hw"/>
-    <styles xmi:type="notation:FontStyle" xmi:id="_Ueal1Ge7Ee-PD8xUaUQ5hw" fontName="Segoe UI"/>
-    <styles xmi:type="notation:FillStyle" xmi:id="_Ueal1We7Ee-PD8xUaUQ5hw"/>
-    <element xmi:type="eer:Relationship" href="clinica-medica.eer#_nGMDkGPlEe-BpJTekpwCRA"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ueal1me7Ee-PD8xUaUQ5hw" x="1069" y="473"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ueal0Ge7Ee-PD8xUaUQ5hw" x="1192" y="680" width="84" height="36"/>
   </children>
   <children xmi:type="notation:Node" xmi:id="_Ueal12e7Ee-PD8xUaUQ5hw" type="2001">
     <children xmi:type="notation:DecorationNode" xmi:id="_Ueal2Ge7Ee-PD8xUaUQ5hw" type="5001"/>
@@ -317,7 +305,7 @@
     <styles xmi:type="notation:FontStyle" xmi:id="_Ueal2me7Ee-PD8xUaUQ5hw" fontName="Segoe UI"/>
     <styles xmi:type="notation:FillStyle" xmi:id="_Ueal22e7Ee-PD8xUaUQ5hw"/>
     <element xmi:type="eer:Entity" href="clinica-medica.eer#_nz3o8GPlEe-BpJTekpwCRA"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ueal3Ge7Ee-PD8xUaUQ5hw" x="1484" y="321" width="77"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ueal3Ge7Ee-PD8xUaUQ5hw" x="1509" y="321" width="77"/>
   </children>
   <children xmi:type="notation:Node" xmi:id="_Ueal3We7Ee-PD8xUaUQ5hw" type="2004">
     <children xmi:type="notation:DecorationNode" xmi:id="_Ueal3me7Ee-PD8xUaUQ5hw" type="5005"/>
@@ -325,11 +313,7 @@
     <styles xmi:type="notation:FontStyle" xmi:id="_Ueal4Ge7Ee-PD8xUaUQ5hw" fontName="Segoe UI"/>
     <styles xmi:type="notation:FillStyle" xmi:id="_Ueal4We7Ee-PD8xUaUQ5hw"/>
     <element xmi:type="eer:Attribute" href="clinica-medica.eer#_jBbFEGPOEe-BpZTekpwCRA"/>
-<<<<<<< HEAD
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ueal4me7Ee-PD8xUaUQ5hw" x="1475" y="250"/>
-=======
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ueal4me7Ee-PD8xUaUQ5hw" x="1458" y="252"/>
->>>>>>> refs/remotes/origin/main
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ueal4me7Ee-PD8xUaUQ5hw" x="1500" y="250"/>
   </children>
   <children xmi:type="notation:Node" xmi:id="_Ueal42e7Ee-PD8xUaUQ5hw" type="2004">
     <children xmi:type="notation:DecorationNode" xmi:id="_Ueal5Ge7Ee-PD8xUaUQ5hw" type="5005"/>
@@ -337,11 +321,7 @@
     <styles xmi:type="notation:FontStyle" xmi:id="_Ueal5me7Ee-PD8xUaUQ5hw" fontName="Segoe UI"/>
     <styles xmi:type="notation:FillStyle" xmi:id="_Ueal52e7Ee-PD8xUaUQ5hw"/>
     <element xmi:type="eer:Attribute" href="clinica-medica.eer#_M9qmwGevEe-PD8xUaUQ5hw"/>
-<<<<<<< HEAD
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ueal6Ge7Ee-PD8xUaUQ5hw" x="1440" y="545"/>
-=======
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ueal6Ge7Ee-PD8xUaUQ5hw" x="1419" y="577"/>
->>>>>>> refs/remotes/origin/main
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ueal6Ge7Ee-PD8xUaUQ5hw" x="1455" y="565"/>
   </children>
   <children xmi:type="notation:Node" xmi:id="_Ueal6We7Ee-PD8xUaUQ5hw" type="2003">
     <children xmi:type="notation:DecorationNode" xmi:id="_Ueal6me7Ee-PD8xUaUQ5hw" type="5004"/>
@@ -349,7 +329,7 @@
     <styles xmi:type="notation:FontStyle" xmi:id="_Ueal7Ge7Ee-PD8xUaUQ5hw" fontName="Segoe UI"/>
     <styles xmi:type="notation:FillStyle" xmi:id="_Ueal7We7Ee-PD8xUaUQ5hw"/>
     <element xmi:type="eer:Relationship" href="clinica-medica.eer#_0EDaIGe0Ee-PD8xUaUQ5hw"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ueal7me7Ee-PD8xUaUQ5hw" x="1064" y="771" width="112" height="46"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ueal7me7Ee-PD8xUaUQ5hw" x="1079" y="771" width="112" height="46"/>
   </children>
   <children xmi:type="notation:Node" xmi:id="_Ueal72e7Ee-PD8xUaUQ5hw" type="2003">
     <children xmi:type="notation:DecorationNode" xmi:id="_Ueal8Ge7Ee-PD8xUaUQ5hw" type="5004"/>
@@ -357,7 +337,7 @@
     <styles xmi:type="notation:FontStyle" xmi:id="_Ueal8me7Ee-PD8xUaUQ5hw" fontName="Segoe UI"/>
     <styles xmi:type="notation:FillStyle" xmi:id="_Ueal82e7Ee-PD8xUaUQ5hw"/>
     <element xmi:type="eer:Relationship" href="clinica-medica.eer#_KEbEkGe2Ee-PD8xUaUQ5hw"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ueal9Ge7Ee-PD8xUaUQ5hw" x="1270" y="321"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ueal9Ge7Ee-PD8xUaUQ5hw" x="1305" y="321"/>
   </children>
   <children xmi:type="notation:Node" xmi:id="_Ueal9We7Ee-PD8xUaUQ5hw" type="2003">
     <children xmi:type="notation:DecorationNode" xmi:id="_Ueal9me7Ee-PD8xUaUQ5hw" type="5004"/>
@@ -365,7 +345,7 @@
     <styles xmi:type="notation:FontStyle" xmi:id="_Ueal-Ge7Ee-PD8xUaUQ5hw" fontName="Segoe UI"/>
     <styles xmi:type="notation:FillStyle" xmi:id="_Ueal-We7Ee-PD8xUaUQ5hw"/>
     <element xmi:type="eer:Relationship" href="clinica-medica.eer#_4Bj_QGe5Ee-PD8xUaUQ5hw"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ueal-me7Ee-PD8xUaUQ5hw" x="1304" y="745"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ueal-me7Ee-PD8xUaUQ5hw" x="1319" y="745"/>
   </children>
   <children xmi:type="notation:Node" xmi:id="_Ueal-2e7Ee-PD8xUaUQ5hw" type="2001">
     <children xmi:type="notation:DecorationNode" xmi:id="_Ueal_Ge7Ee-PD8xUaUQ5hw" type="5001"/>
@@ -373,27 +353,7 @@
     <styles xmi:type="notation:FontStyle" xmi:id="_Ueal_me7Ee-PD8xUaUQ5hw" fontName="Segoe UI"/>
     <styles xmi:type="notation:FillStyle" xmi:id="_Ueal_2e7Ee-PD8xUaUQ5hw"/>
     <element xmi:type="eer:Entity" href="clinica-medica.eer#_4bNOUGe5Ee-PD8xUaUQ5hw"/>
-<<<<<<< HEAD
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UeamAGe7Ee-PD8xUaUQ5hw" x="1315" y="885" width="77"/>
-=======
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UeamAGe7Ee-PD8xUaUQ5hw" x="1305" y="885" width="93"/>
->>>>>>> refs/remotes/origin/main
-  </children>
-  <children xmi:type="notation:Node" xmi:id="_UeamAWe7Ee-PD8xUaUQ5hw" type="2004">
-    <children xmi:type="notation:DecorationNode" xmi:id="_UeamAme7Ee-PD8xUaUQ5hw" type="5005"/>
-    <styles xmi:type="notation:DescriptionStyle" xmi:id="_UeamA2e7Ee-PD8xUaUQ5hw"/>
-    <styles xmi:type="notation:FontStyle" xmi:id="_UeamBGe7Ee-PD8xUaUQ5hw" fontName="Segoe UI"/>
-    <styles xmi:type="notation:FillStyle" xmi:id="_UeamBWe7Ee-PD8xUaUQ5hw"/>
-    <element xmi:type="eer:Attribute" href="clinica-medica.eer#_0ytoMGe6Ee-PD8xUaUQ5hw"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UeamBme7Ee-PD8xUaUQ5hw" x="1335" y="940" width="105" height="23"/>
-  </children>
-  <children xmi:type="notation:Node" xmi:id="_UeamB2e7Ee-PD8xUaUQ5hw" type="2004">
-    <children xmi:type="notation:DecorationNode" xmi:id="_UeamCGe7Ee-PD8xUaUQ5hw" type="5005"/>
-    <styles xmi:type="notation:DescriptionStyle" xmi:id="_UeamCWe7Ee-PD8xUaUQ5hw"/>
-    <styles xmi:type="notation:FontStyle" xmi:id="_UeamCme7Ee-PD8xUaUQ5hw" fontName="Segoe UI"/>
-    <styles xmi:type="notation:FillStyle" xmi:id="_UeamC2e7Ee-PD8xUaUQ5hw"/>
-    <element xmi:type="eer:Attribute" href="clinica-medica.eer#_08OwkGe6Ee-PD8xUaUQ5hw"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UeamDGe7Ee-PD8xUaUQ5hw" x="1240" y="940"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UeamAGe7Ee-PD8xUaUQ5hw" x="1330" y="885" width="77"/>
   </children>
   <children xmi:type="notation:Node" xmi:id="_1GY-0GiOEe-8kszJ_7duTA" type="2004">
     <children xmi:type="notation:DecorationNode" xmi:id="_1Ga0AGiOEe-8kszJ_7duTA" type="5005"/>
@@ -401,16 +361,15 @@
     <styles xmi:type="notation:FontStyle" xmi:id="_1GY-0miOEe-8kszJ_7duTA" fontName="Segoe UI"/>
     <styles xmi:type="notation:FillStyle" xmi:id="_1GY-02iOEe-8kszJ_7duTA"/>
     <element xmi:type="eer:Attribute" href="clinica-medica.eer#_1GUtYGiOEe-8kszJ_7duTA"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_1GY-1GiOEe-8kszJ_7duTA" x="1450" y="940"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_1GY-1GiOEe-8kszJ_7duTA" x="1470" y="890"/>
   </children>
-<<<<<<< HEAD
   <children xmi:type="notation:Node" xmi:id="_Q0vkUGjTEe-gTvbwVNx9IA" type="2004">
     <children xmi:type="notation:DecorationNode" xmi:id="_Q0xZgGjTEe-gTvbwVNx9IA" type="5005"/>
     <styles xmi:type="notation:DescriptionStyle" xmi:id="_Q0wLYGjTEe-gTvbwVNx9IA"/>
     <styles xmi:type="notation:FontStyle" xmi:id="_Q0wLYWjTEe-gTvbwVNx9IA" fontName="Segoe UI"/>
     <styles xmi:type="notation:FillStyle" xmi:id="_Q0wLYmjTEe-gTvbwVNx9IA"/>
     <element xmi:type="eer:Attribute" href="clinica-medica.eer#_Qz0-UGjTEe-gTvbwVNx9IA"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Q0wLY2jTEe-gTvbwVNx9IA" x="1440" y="609"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Q0wLY2jTEe-gTvbwVNx9IA" x="1455" y="609"/>
   </children>
   <children xmi:type="notation:Node" xmi:id="_srmmwGkxEe-gTvbwVNx9IA" type="2004">
     <children xmi:type="notation:DecorationNode" xmi:id="_ssMcoGkxEe-gTvbwVNx9IA" type="5005"/>
@@ -418,10 +377,80 @@
     <styles xmi:type="notation:FontStyle" xmi:id="_srmmwmkxEe-gTvbwVNx9IA" fontName="Segoe UI"/>
     <styles xmi:type="notation:FillStyle" xmi:id="_srmmw2kxEe-gTvbwVNx9IA"/>
     <element xmi:type="eer:Attribute" href="clinica-medica.eer#_sqtO4GkxEe-gTvbwVNx9IA"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_srmmxGkxEe-gTvbwVNx9IA" x="1440" y="709"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_srmmxGkxEe-gTvbwVNx9IA" x="1455" y="680"/>
   </children>
-=======
->>>>>>> refs/remotes/origin/main
+  <children xmi:type="notation:Node" xmi:id="_BwwhQGpTEe-Q7LKFEq5T_A" type="2003">
+    <children xmi:type="notation:DecorationNode" xmi:id="_BwxvYGpTEe-Q7LKFEq5T_A" type="5004"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_BwwhQWpTEe-Q7LKFEq5T_A"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_BwwhQmpTEe-Q7LKFEq5T_A" fontName="Segoe UI"/>
+    <styles xmi:type="notation:FillStyle" xmi:id="_BwwhQ2pTEe-Q7LKFEq5T_A"/>
+    <element xmi:type="eer:Relationship" href="clinica-medica.eer#_Bwtd8GpTEe-Q7LKFEq5T_A"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BwwhRGpTEe-Q7LKFEq5T_A" x="1035" y="445"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_JTMX8GpTEe-Q7LKFEq5T_A" type="2003">
+    <children xmi:type="notation:DecorationNode" xmi:id="_JTNmEGpTEe-Q7LKFEq5T_A" type="5004"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_JTMX8WpTEe-Q7LKFEq5T_A"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_JTM_AGpTEe-Q7LKFEq5T_A" fontName="Segoe UI"/>
+    <styles xmi:type="notation:FillStyle" xmi:id="_JTM_AWpTEe-Q7LKFEq5T_A"/>
+    <element xmi:type="eer:Relationship" href="clinica-medica.eer#_JTLJ0GpTEe-Q7LKFEq5T_A"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JTM_AmpTEe-Q7LKFEq5T_A" x="1145" y="445"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_u0YdMGpaEe-Q7LKFEq5T_A" type="2001">
+    <children xmi:type="notation:DecorationNode" xmi:id="_u0ZEQGpaEe-Q7LKFEq5T_A" type="5001"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_u0YdMWpaEe-Q7LKFEq5T_A"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_u0YdMmpaEe-Q7LKFEq5T_A" fontName="Segoe UI"/>
+    <styles xmi:type="notation:FillStyle" xmi:id="_u0YdM2paEe-Q7LKFEq5T_A"/>
+    <element xmi:type="eer:Entity" href="clinica-medica.eer#_u0OsMGpaEe-Q7LKFEq5T_A"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_u0YdNGpaEe-Q7LKFEq5T_A" x="1155" y="1020" width="79"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_vHV1cGpaEe-Q7LKFEq5T_A" type="2001">
+    <children xmi:type="notation:DecorationNode" xmi:id="_vHWcgGpaEe-Q7LKFEq5T_A" type="5001"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_vHV1cWpaEe-Q7LKFEq5T_A"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_vHV1cmpaEe-Q7LKFEq5T_A" fontName="Segoe UI"/>
+    <styles xmi:type="notation:FillStyle" xmi:id="_vHV1c2paEe-Q7LKFEq5T_A"/>
+    <element xmi:type="eer:Entity" href="clinica-medica.eer#_vHFWwGpaEe-Q7LKFEq5T_A"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vHV1dGpaEe-Q7LKFEq5T_A" x="1510" y="1020" width="101"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_74TmgGpaEe-Q7LKFEq5T_A" type="2003">
+    <children xmi:type="notation:DecorationNode" xmi:id="_74TmhWpaEe-Q7LKFEq5T_A" type="5004"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_74TmgWpaEe-Q7LKFEq5T_A"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_74TmgmpaEe-Q7LKFEq5T_A" fontName="Segoe UI"/>
+    <styles xmi:type="notation:FillStyle" xmi:id="_74Tmg2paEe-Q7LKFEq5T_A"/>
+    <element xmi:type="eer:Relationship" href="clinica-medica.eer#_739oQGpaEe-Q7LKFEq5T_A"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_74TmhGpaEe-Q7LKFEq5T_A" x="1320" y="1020"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_ZM3QQGpcEe-Q7LKFEq5T_A" type="2004">
+    <children xmi:type="notation:DecorationNode" xmi:id="_ZM33UGpcEe-Q7LKFEq5T_A" type="5005"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_ZM3QQWpcEe-Q7LKFEq5T_A"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_ZM3QQmpcEe-Q7LKFEq5T_A" fontName="Segoe UI"/>
+    <styles xmi:type="notation:FillStyle" xmi:id="_ZM3QQ2pcEe-Q7LKFEq5T_A"/>
+    <element xmi:type="eer:Attribute" href="clinica-medica.eer#_ZM2pMGpcEe-Q7LKFEq5T_A"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZM3QRGpcEe-Q7LKFEq5T_A" x="1085" y="1095"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_ZkP1gWpcEe-Q7LKFEq5T_A" type="2004">
+    <children xmi:type="notation:DecorationNode" xmi:id="_ZkQckGpcEe-Q7LKFEq5T_A" type="5005"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_ZkP1gmpcEe-Q7LKFEq5T_A"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_ZkP1g2pcEe-Q7LKFEq5T_A" fontName="Segoe UI"/>
+    <styles xmi:type="notation:FillStyle" xmi:id="_ZkP1hGpcEe-Q7LKFEq5T_A"/>
+    <element xmi:type="eer:Attribute" href="clinica-medica.eer#_ZkP1gGpcEe-Q7LKFEq5T_A"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZkP1hWpcEe-Q7LKFEq5T_A" x="1585" y="1095"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_urJWwGpcEe-Q7LKFEq5T_A" type="2004">
+    <children xmi:type="notation:DecorationNode" xmi:id="_urJ90GpcEe-Q7LKFEq5T_A" type="5005"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_urJWwWpcEe-Q7LKFEq5T_A"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_urJWwmpcEe-Q7LKFEq5T_A" fontName="Segoe UI"/>
+    <styles xmi:type="notation:FillStyle" xmi:id="_urJWw2pcEe-Q7LKFEq5T_A"/>
+    <element xmi:type="eer:Attribute" href="clinica-medica.eer#_urIvsGpcEe-Q7LKFEq5T_A"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_urJWxGpcEe-Q7LKFEq5T_A" x="1195" y="1095"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_u3fwsWpcEe-Q7LKFEq5T_A" type="2004">
+    <children xmi:type="notation:DecorationNode" xmi:id="_u3gXxGpcEe-Q7LKFEq5T_A" type="5005"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_u3gXwGpcEe-Q7LKFEq5T_A"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_u3gXwWpcEe-Q7LKFEq5T_A" fontName="Segoe UI"/>
+    <styles xmi:type="notation:FillStyle" xmi:id="_u3gXwmpcEe-Q7LKFEq5T_A"/>
+    <element xmi:type="eer:Attribute" href="clinica-medica.eer#_u3fwsGpcEe-Q7LKFEq5T_A"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_u3gXw2pcEe-Q7LKFEq5T_A" x="1455" y="1095"/>
+  </children>
   <styles xmi:type="notation:DiagramStyle" xmi:id="_UeamDWe7Ee-PD8xUaUQ5hw"/>
   <element xmi:type="eer:Schema" href="clinica-medica.eer#_BSu-AF_KEe-w_L0rPn5L2w"/>
   <edges xmi:type="notation:Edge" xmi:id="_UeamDme7Ee-PD8xUaUQ5hw" type="4007" source="_Ueak8We7Ee-PD8xUaUQ5hw" target="_Ueak92e7Ee-PD8xUaUQ5hw">
@@ -437,7 +466,7 @@
     <styles xmi:type="notation:FontStyle" xmi:id="_UeamFme7Ee-PD8xUaUQ5hw" fontName="Segoe UI" fontHeight="10"/>
     <element xmi:type="eer:AttributeLink" href="clinica-medica.eer#_iBhvcF_KEe-w_L0rPn5L2w"/>
     <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_UeamF2e7Ee-PD8xUaUQ5hw" points="[-66, 33, 181, -90]$[-206, 102, 41, -21]"/>
-    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UeamGGe7Ee-PD8xUaUQ5hw" id="(0.0,0.475)"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UeamGGe7Ee-PD8xUaUQ5hw" id="(0.03333333333333333,0.425)"/>
     <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UeamGWe7Ee-PD8xUaUQ5hw" id="(0.95,0.3939393939393939)"/>
   </edges>
   <edges xmi:type="notation:Edge" xmi:id="_UeamGme7Ee-PD8xUaUQ5hw" type="4006" source="_UealA2e7Ee-PD8xUaUQ5hw" target="_UealFWe7Ee-PD8xUaUQ5hw">
@@ -459,62 +488,63 @@
     <styles xmi:type="notation:FontStyle" xmi:id="_UeamJme7Ee-PD8xUaUQ5hw" fontName="Segoe UI" fontHeight="10"/>
     <element xmi:type="eer:AttributeLink" href="clinica-medica.eer#_kp2nIF_LEe-w_L0rPn5L2w"/>
     <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_UeamJ2e7Ee-PD8xUaUQ5hw" points="[0, -4, 52, 0]$[-47, -5, 5, -1]"/>
-    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UeamKGe7Ee-PD8xUaUQ5hw" id="(0.022222222222222223,0.175)"/>
-    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UeamKWe7Ee-PD8xUaUQ5hw" id="(0.8888888888888888,0.8)"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UeamKGe7Ee-PD8xUaUQ5hw" id="(0.8333333333333334,0.95)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UeamKWe7Ee-PD8xUaUQ5hw" id="(0.3333333333333333,0.08)"/>
   </edges>
   <edges xmi:type="notation:Edge" xmi:id="_UeamKme7Ee-PD8xUaUQ5hw" type="4007" source="_UealA2e7Ee-PD8xUaUQ5hw" target="_UealLWe7Ee-PD8xUaUQ5hw">
     <styles xmi:type="notation:RoutingStyle" xmi:id="_UeamK2e7Ee-PD8xUaUQ5hw"/>
     <styles xmi:type="notation:FontStyle" xmi:id="_UeamLGe7Ee-PD8xUaUQ5hw" fontName="Segoe UI" fontHeight="10"/>
     <element xmi:type="eer:AttributeLink" href="clinica-medica.eer#_oFckQF_LEe-w_L0rPn5L2w"/>
     <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_UeamLWe7Ee-PD8xUaUQ5hw" points="[0, -8, -65, 0]$[66, -9, 1, -1]"/>
-    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UeamLme7Ee-PD8xUaUQ5hw" id="(0.044444444444444446,0.85)"/>
-    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UeamL2e7Ee-PD8xUaUQ5hw" id="(0.9777777777777777,0.32)"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UeamLme7Ee-PD8xUaUQ5hw" id="(0.2111111111111111,0.875)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UeamL2e7Ee-PD8xUaUQ5hw" id="(0.7222222222222222,0.04)"/>
   </edges>
   <edges xmi:type="notation:Edge" xmi:id="_UeamMGe7Ee-PD8xUaUQ5hw" type="4007" source="_UealA2e7Ee-PD8xUaUQ5hw" target="_UealM2e7Ee-PD8xUaUQ5hw">
     <styles xmi:type="notation:RoutingStyle" xmi:id="_UeamMWe7Ee-PD8xUaUQ5hw"/>
     <styles xmi:type="notation:FontStyle" xmi:id="_UeamMme7Ee-PD8xUaUQ5hw" fontName="Segoe UI" fontHeight="10"/>
     <element xmi:type="eer:AttributeLink" href="clinica-medica.eer#_scQMcF_LEe-w_L0rPn5L2w"/>
     <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_UeamM2e7Ee-PD8xUaUQ5hw" points="[9, 1, 0, -45]$[9, 46, 0, 0]"/>
-    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UeamNGe7Ee-PD8xUaUQ5hw" id="(0.5222222222222223,0.95)"/>
-    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UeamNWe7Ee-PD8xUaUQ5hw" id="(0.4777777777777778,0.0)"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UeamNGe7Ee-PD8xUaUQ5hw" id="(0.5444444444444444,0.9)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UeamNWe7Ee-PD8xUaUQ5hw" id="(0.5222222222222223,0.08)"/>
   </edges>
   <edges xmi:type="notation:Edge" xmi:id="_UeamNme7Ee-PD8xUaUQ5hw" type="4007" source="_UealM2e7Ee-PD8xUaUQ5hw" target="_UealOWe7Ee-PD8xUaUQ5hw">
     <styles xmi:type="notation:RoutingStyle" xmi:id="_UeamN2e7Ee-PD8xUaUQ5hw"/>
     <styles xmi:type="notation:FontStyle" xmi:id="_UeamOGe7Ee-PD8xUaUQ5hw" fontName="Segoe UI" fontHeight="10"/>
     <element xmi:type="eer:AttributeLink" href="clinica-medica.eer#_uMHAgF_LEe-w_L0rPn5L2w"/>
     <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_UeamOWe7Ee-PD8xUaUQ5hw" points="[2, -1, 111, -29]$[-69, 23, 40, -5]"/>
-    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UeamOme7Ee-PD8xUaUQ5hw" id="(0.7333333333333333,0.84)"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UeamOme7Ee-PD8xUaUQ5hw" id="(0.7111111111111111,0.84)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_xcwKcGpWEe-Q7LKFEq5T_A" id="(0.2222222222222222,0.0)"/>
   </edges>
   <edges xmi:type="notation:Edge" xmi:id="_UeamO2e7Ee-PD8xUaUQ5hw" type="4007" source="_UealM2e7Ee-PD8xUaUQ5hw" target="_UealP2e7Ee-PD8xUaUQ5hw">
     <styles xmi:type="notation:RoutingStyle" xmi:id="_UeamPGe7Ee-PD8xUaUQ5hw"/>
     <styles xmi:type="notation:FontStyle" xmi:id="_UeamPWe7Ee-PD8xUaUQ5hw" fontName="Segoe UI" fontHeight="10"/>
     <element xmi:type="eer:AttributeLink" href="clinica-medica.eer#_yTDnwF_LEe-w_L0rPn5L2w"/>
-    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_UeamPme7Ee-PD8xUaUQ5hw" points="[0, -2, 11, -29]$[-16, 15, -5, -12]"/>
-    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UeamP2e7Ee-PD8xUaUQ5hw" id="(0.4666666666666667,0.88)"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_UeamPme7Ee-PD8xUaUQ5hw" points="[-39, -5, 113, 0]$[-108, -5, 44, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UeamP2e7Ee-PD8xUaUQ5hw" id="(0.5333333333333333,0.92)"/>
   </edges>
   <edges xmi:type="notation:Edge" xmi:id="_UeamQGe7Ee-PD8xUaUQ5hw" type="4007" source="_UealM2e7Ee-PD8xUaUQ5hw" target="_UealRWe7Ee-PD8xUaUQ5hw">
     <styles xmi:type="notation:RoutingStyle" xmi:id="_UeamQWe7Ee-PD8xUaUQ5hw"/>
     <styles xmi:type="notation:FontStyle" xmi:id="_UeamQme7Ee-PD8xUaUQ5hw" fontName="Segoe UI" fontHeight="10"/>
     <element xmi:type="eer:AttributeLink" href="clinica-medica.eer#_5k1MQF_LEe-w_L0rPn5L2w"/>
     <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_UeamQ2e7Ee-PD8xUaUQ5hw" points="[-1, -3, -17, -51]$[14, 45, -2, -3]"/>
-    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UeamRGe7Ee-PD8xUaUQ5hw" id="(0.13333333333333333,0.8)"/>
-    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UeamRWe7Ee-PD8xUaUQ5hw" id="(0.7222222222222222,0.12)"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UeamRGe7Ee-PD8xUaUQ5hw" id="(0.24444444444444444,0.8)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UeamRWe7Ee-PD8xUaUQ5hw" id="(0.5888888888888889,0.04)"/>
   </edges>
   <edges xmi:type="notation:Edge" xmi:id="_UeamRme7Ee-PD8xUaUQ5hw" type="4007" source="_UealM2e7Ee-PD8xUaUQ5hw" target="_UealS2e7Ee-PD8xUaUQ5hw">
     <styles xmi:type="notation:RoutingStyle" xmi:id="_UeamR2e7Ee-PD8xUaUQ5hw"/>
     <styles xmi:type="notation:FontStyle" xmi:id="_UeamSGe7Ee-PD8xUaUQ5hw" fontName="Segoe UI" fontHeight="10"/>
     <element xmi:type="eer:AttributeLink" href="clinica-medica.eer#_-gwTsF_LEe-w_L0rPn5L2w"/>
     <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_UeamSWe7Ee-PD8xUaUQ5hw" points="[-3, -2, -78, -49]$[73, 45, -2, -2]"/>
-    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UeamSme7Ee-PD8xUaUQ5hw" id="(0.12222222222222222,0.6)"/>
-    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UeamS2e7Ee-PD8xUaUQ5hw" id="(0.8111111111111111,0.0)"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UeamSme7Ee-PD8xUaUQ5hw" id="(0.2,0.08)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UeamS2e7Ee-PD8xUaUQ5hw" id="(0.9111111111111111,0.2)"/>
   </edges>
   <edges xmi:type="notation:Edge" xmi:id="_UeamTGe7Ee-PD8xUaUQ5hw" type="4007" source="_UealM2e7Ee-PD8xUaUQ5hw" target="_UealUWe7Ee-PD8xUaUQ5hw">
     <styles xmi:type="notation:RoutingStyle" xmi:id="_UeamTWe7Ee-PD8xUaUQ5hw"/>
     <styles xmi:type="notation:FontStyle" xmi:id="_UeamTme7Ee-PD8xUaUQ5hw" fontName="Segoe UI" fontHeight="10"/>
     <element xmi:type="eer:AttributeLink" href="clinica-medica.eer#_AFrDEF_MEe-w_L0rPn5L2w"/>
     <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_UeamT2e7Ee-PD8xUaUQ5hw" points="[-8, -3, -170, -48]$[162, 45, 0, 0]"/>
-    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UeamUGe7Ee-PD8xUaUQ5hw" id="(0.8777777777777778,0.68)"/>
-    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UeamUWe7Ee-PD8xUaUQ5hw" id="(0.9777777777777777,0.16)"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UeamUGe7Ee-PD8xUaUQ5hw" id="(0.9444444444444444,0.64)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UeamUWe7Ee-PD8xUaUQ5hw" id="(0.24444444444444444,0.08)"/>
   </edges>
   <edges xmi:type="notation:Edge" xmi:id="_UeamUme7Ee-PD8xUaUQ5hw" type="4007" source="_Ueak8We7Ee-PD8xUaUQ5hw" target="_UealG2e7Ee-PD8xUaUQ5hw">
     <styles xmi:type="notation:RoutingStyle" xmi:id="_UeamU2e7Ee-PD8xUaUQ5hw"/>
@@ -737,20 +767,6 @@
     <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Ueam7Ge7Ee-PD8xUaUQ5hw" points="[3, 18, 0, -63]$[0, 63, -3, -18]"/>
     <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Ueam7We7Ee-PD8xUaUQ5hw" id="(0.27,0.15)"/>
   </edges>
-  <edges xmi:type="notation:Edge" xmi:id="_Ueam7me7Ee-PD8xUaUQ5hw" type="4006" source="_UealoWe7Ee-PD8xUaUQ5hw" target="_Ueal0We7Ee-PD8xUaUQ5hw">
-    <children xmi:type="notation:DecorationNode" xmi:id="_Ueam72e7Ee-PD8xUaUQ5hw" type="6006">
-      <layoutConstraint xmi:type="notation:Location" xmi:id="_Ueam8Ge7Ee-PD8xUaUQ5hw" x="1" y="-13"/>
-    </children>
-    <children xmi:type="notation:DecorationNode" xmi:id="_Ueam8We7Ee-PD8xUaUQ5hw" type="6007">
-      <layoutConstraint xmi:type="notation:Location" xmi:id="_Ueam8me7Ee-PD8xUaUQ5hw" x="5" y="5"/>
-    </children>
-    <styles xmi:type="notation:RoutingStyle" xmi:id="_Ueam82e7Ee-PD8xUaUQ5hw"/>
-    <styles xmi:type="notation:FontStyle" xmi:id="_Ueam9Ge7Ee-PD8xUaUQ5hw" fontName="Segoe UI"/>
-    <element xmi:type="eer:RelationshipLink" href="clinica-medica.eer#_sMwUwGPlEe-BpJTekpwCRA"/>
-    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Ueam9We7Ee-PD8xUaUQ5hw" points="[6, -3, -99, -3]$[62, -3, -43, -3]"/>
-    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Ueam9me7Ee-PD8xUaUQ5hw" id="(0.5147058823529411,0.9795918367346939)"/>
-    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Ueam92e7Ee-PD8xUaUQ5hw" id="(0.49,0.0)"/>
-  </edges>
   <edges xmi:type="notation:Edge" xmi:id="_Ueam-Ge7Ee-PD8xUaUQ5hw" type="4007" source="_Ueal12e7Ee-PD8xUaUQ5hw" target="_Ueal3We7Ee-PD8xUaUQ5hw">
     <styles xmi:type="notation:RoutingStyle" xmi:id="_Ueam-We7Ee-PD8xUaUQ5hw"/>
     <styles xmi:type="notation:FontStyle" xmi:id="_Ueam-me7Ee-PD8xUaUQ5hw" fontName="Segoe UI"/>
@@ -778,23 +794,9 @@
     <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UeanCWe7Ee-PD8xUaUQ5hw" id="(1.0,0.2)"/>
     <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UeanCme7Ee-PD8xUaUQ5hw" id="(0.23333333333333334,0.84)"/>
   </edges>
-  <edges xmi:type="notation:Edge" xmi:id="_UeanH2e7Ee-PD8xUaUQ5hw" type="4006" source="_UealiWe7Ee-PD8xUaUQ5hw" target="_Ueal0We7Ee-PD8xUaUQ5hw">
-    <children xmi:type="notation:DecorationNode" xmi:id="_UeanIGe7Ee-PD8xUaUQ5hw" type="6006">
-      <layoutConstraint xmi:type="notation:Location" xmi:id="_UeanIWe7Ee-PD8xUaUQ5hw" x="-3" y="12"/>
-    </children>
-    <children xmi:type="notation:DecorationNode" xmi:id="_UeanIme7Ee-PD8xUaUQ5hw" type="6007">
-      <layoutConstraint xmi:type="notation:Location" xmi:id="_UeanI2e7Ee-PD8xUaUQ5hw" x="5" y="5"/>
-    </children>
-    <styles xmi:type="notation:RoutingStyle" xmi:id="_UeanJGe7Ee-PD8xUaUQ5hw"/>
-    <styles xmi:type="notation:FontStyle" xmi:id="_UeanJWe7Ee-PD8xUaUQ5hw" fontName="Segoe UI"/>
-    <element xmi:type="eer:RelationshipLink" href="clinica-medica.eer#_FoZlMGe2Ee-PD8xUaUQ5hw"/>
-    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_UeanJme7Ee-PD8xUaUQ5hw" points="[0, -3, -151, 116]$[0, -119, -151, 0]$[150, -119, -1, 0]"/>
-    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UeanJ2e7Ee-PD8xUaUQ5hw" id="(0.5,0.075)"/>
-    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UeanKGe7Ee-PD8xUaUQ5hw" id="(0.05,0.6)"/>
-  </edges>
   <edges xmi:type="notation:Edge" xmi:id="_UeanMme7Ee-PD8xUaUQ5hw" type="4006" source="_UealoWe7Ee-PD8xUaUQ5hw" target="_Ueal72e7Ee-PD8xUaUQ5hw">
     <children xmi:type="notation:DecorationNode" xmi:id="_UeanM2e7Ee-PD8xUaUQ5hw" type="6006">
-      <layoutConstraint xmi:type="notation:Location" xmi:id="_UeanNGe7Ee-PD8xUaUQ5hw" x="-2" y="-12"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_UeanNGe7Ee-PD8xUaUQ5hw" x="1" y="-7"/>
     </children>
     <children xmi:type="notation:DecorationNode" xmi:id="_UeanNWe7Ee-PD8xUaUQ5hw" type="6007">
       <layoutConstraint xmi:type="notation:Location" xmi:id="_UeanNme7Ee-PD8xUaUQ5hw" x="5" y="5"/>
@@ -819,19 +821,6 @@
     <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UeanTWe7Ee-PD8xUaUQ5hw" id="(0.5168539325842697,0.975)"/>
     <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UeanTme7Ee-PD8xUaUQ5hw" id="(0.49,0.075)"/>
   </edges>
-  <edges xmi:type="notation:Edge" xmi:id="_UeanWWe7Ee-PD8xUaUQ5hw" type="4007" source="_Ueal-2e7Ee-PD8xUaUQ5hw" target="_UeamB2e7Ee-PD8xUaUQ5hw">
-    <styles xmi:type="notation:RoutingStyle" xmi:id="_UeanWme7Ee-PD8xUaUQ5hw"/>
-    <styles xmi:type="notation:FontStyle" xmi:id="_UeanW2e7Ee-PD8xUaUQ5hw" fontName="Segoe UI"/>
-    <element xmi:type="eer:AttributeLink" href="clinica-medica.eer#_FEmiUGe7Ee-PD8xUaUQ5hw"/>
-    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_UeanXGe7Ee-PD8xUaUQ5hw" points="[-15, 20, 24, -30]$[-37, 62, 2, 12]"/>
-  </edges>
-  <edges xmi:type="notation:Edge" xmi:id="_UeanXWe7Ee-PD8xUaUQ5hw" type="4007" source="_Ueal-2e7Ee-PD8xUaUQ5hw" target="_UeamAWe7Ee-PD8xUaUQ5hw">
-    <styles xmi:type="notation:RoutingStyle" xmi:id="_UeanXme7Ee-PD8xUaUQ5hw"/>
-    <styles xmi:type="notation:FontStyle" xmi:id="_UeanX2e7Ee-PD8xUaUQ5hw" fontName="Segoe UI"/>
-    <element xmi:type="eer:AttributeLink" href="clinica-medica.eer#_FPzFsGe7Ee-PD8xUaUQ5hw"/>
-    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_UeanYGe7Ee-PD8xUaUQ5hw" points="[5, 8, -34, -49]$[41, 72, 2, 15]"/>
-    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UeanYWe7Ee-PD8xUaUQ5hw" id="(0.7671232876712328,0.8)"/>
-  </edges>
   <edges xmi:type="notation:Edge" xmi:id="_UjIs4Ge7Ee-PD8xUaUQ5hw" type="4006" source="_UealdWe7Ee-PD8xUaUQ5hw" target="_Ueal6We7Ee-PD8xUaUQ5hw">
     <children xmi:type="notation:DecorationNode" xmi:id="_UjIs5Ge7Ee-PD8xUaUQ5hw" type="6006">
       <layoutConstraint xmi:type="notation:Location" xmi:id="_UjJT8Ge7Ee-PD8xUaUQ5hw" x="2" y="12"/>
@@ -855,18 +844,6 @@
     <styles xmi:type="notation:FontStyle" xmi:id="_UjLJIme7Ee-PD8xUaUQ5hw" fontName="Segoe UI"/>
     <element xmi:type="eer:RelationshipLink" href="clinica-medica.eer#_nYGPcGe1Ee-PD8xUaUQ5hw"/>
     <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_UjLJI2e7Ee-PD8xUaUQ5hw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
-  </edges>
-  <edges xmi:type="notation:Edge" xmi:id="_UjLwMGe7Ee-PD8xUaUQ5hw" type="4006" source="_UealY2e7Ee-PD8xUaUQ5hw" target="_Ueal0We7Ee-PD8xUaUQ5hw">
-    <children xmi:type="notation:DecorationNode" xmi:id="_UjLwNGe7Ee-PD8xUaUQ5hw" type="6006">
-      <layoutConstraint xmi:type="notation:Location" xmi:id="_UjLwNWe7Ee-PD8xUaUQ5hw" x="-21" y="-9"/>
-    </children>
-    <children xmi:type="notation:DecorationNode" xmi:id="_UjLwNme7Ee-PD8xUaUQ5hw" type="6007">
-      <layoutConstraint xmi:type="notation:Location" xmi:id="_UjLwN2e7Ee-PD8xUaUQ5hw" x="5" y="5"/>
-    </children>
-    <styles xmi:type="notation:RoutingStyle" xmi:id="_UjLwMWe7Ee-PD8xUaUQ5hw"/>
-    <styles xmi:type="notation:FontStyle" xmi:id="_UjLwMme7Ee-PD8xUaUQ5hw" fontName="Segoe UI"/>
-    <element xmi:type="eer:RelationshipLink" href="clinica-medica.eer#_HSOpwGe2Ee-PD8xUaUQ5hw"/>
-    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_UjLwM2e7Ee-PD8xUaUQ5hw" points="[0, -20, 235, 111]$[0, -131, 235, 0]$[-185, -131, 50, 0]"/>
   </edges>
   <edges xmi:type="notation:Edge" xmi:id="_UjNlYGe7Ee-PD8xUaUQ5hw" type="4006" source="_Ueal12e7Ee-PD8xUaUQ5hw" target="_Ueal72e7Ee-PD8xUaUQ5hw">
     <children xmi:type="notation:DecorationNode" xmi:id="_UjNlZGe7Ee-PD8xUaUQ5hw" type="6006">
@@ -900,7 +877,6 @@
     <element xmi:type="eer:AttributeLink" href="clinica-medica.eer#_1mR_0GiOEe-8kszJ_7duTA"/>
     <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_1mT1A2iOEe-8kszJ_7duTA" points="[37, -6, -106, 3]$[143, 4, 0, 13]"/>
   </edges>
-<<<<<<< HEAD
   <edges xmi:type="notation:Edge" xmi:id="_TgmGkGjTEe-gTvbwVNx9IA" type="4007" source="_UealY2e7Ee-PD8xUaUQ5hw" target="_Q0vkUGjTEe-gTvbwVNx9IA">
     <styles xmi:type="notation:RoutingStyle" xmi:id="_TgmGkWjTEe-gTvbwVNx9IA"/>
     <styles xmi:type="notation:FontStyle" xmi:id="_TgmGkmjTEe-gTvbwVNx9IA" fontName="Segoe UI"/>
@@ -914,8 +890,127 @@
     <element xmi:type="eer:AttributeLink" href="clinica-medica.eer#_uXqf8GkxEe-gTvbwVNx9IA"/>
     <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_uXqf9GkxEe-gTvbwVNx9IA" points="[5, 5, -81, -90]$[80, 95, -6, 0]"/>
     <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_uX9a4GkxEe-gTvbwVNx9IA" id="(0.9438202247191011,0.575)"/>
-    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_uX9a4WkxEe-gTvbwVNx9IA" id="(0.06666666666666667,0.52)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_uX9a4WkxEe-gTvbwVNx9IA" id="(0.15555555555555556,0.24)"/>
   </edges>
-=======
->>>>>>> refs/remotes/origin/main
+  <edges xmi:type="notation:Edge" xmi:id="_g2iGcGpTEe-Q7LKFEq5T_A" type="4006" source="_UealY2e7Ee-PD8xUaUQ5hw" target="_JTMX8GpTEe-Q7LKFEq5T_A">
+    <children xmi:type="notation:DecorationNode" xmi:id="_g2itgGpTEe-Q7LKFEq5T_A" type="6006">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_g2itgWpTEe-Q7LKFEq5T_A" x="2" y="9"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_g2itgmpTEe-Q7LKFEq5T_A" type="6007">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_g2itg2pTEe-Q7LKFEq5T_A" x="5" y="5"/>
+    </children>
+    <styles xmi:type="notation:RoutingStyle" xmi:id="_g2iGcWpTEe-Q7LKFEq5T_A"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_g2iGcmpTEe-Q7LKFEq5T_A" fontName="Segoe UI"/>
+    <element xmi:type="eer:RelationshipLink" href="clinica-medica.eer#_KmJ0oGpTEe-Q7LKFEq5T_A"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_g2iGc2pTEe-Q7LKFEq5T_A" points="[-24, -20, 170, 139]$[-178, -146, 16, 13]"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_jhOLEGpTEe-Q7LKFEq5T_A" id="(0.99,0.475)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_HtIjoGpUEe-Q7LKFEq5T_A" type="4006" source="_UealoWe7Ee-PD8xUaUQ5hw" target="_BwwhQGpTEe-Q7LKFEq5T_A">
+    <children xmi:type="notation:DecorationNode" xmi:id="_HtJKsGpUEe-Q7LKFEq5T_A" type="6006">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_HtJKsWpUEe-Q7LKFEq5T_A" x="1" y="11"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_HtJKsmpUEe-Q7LKFEq5T_A" type="6007">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_HtJKs2pUEe-Q7LKFEq5T_A" x="5" y="5"/>
+    </children>
+    <styles xmi:type="notation:RoutingStyle" xmi:id="_HtIjoWpUEe-Q7LKFEq5T_A"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_HtIjompUEe-Q7LKFEq5T_A" fontName="Segoe UI"/>
+    <element xmi:type="eer:RelationshipLink" href="clinica-medica.eer#_nJQowGpTEe-Q7LKFEq5T_A"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_HtIjo2pUEe-Q7LKFEq5T_A" points="[-9, 18, 34, -74]$[-38, 80, 5, -12]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ylCTEGpUEe-Q7LKFEq5T_A" id="(0.05555555555555555,0.8571428571428571)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_HtK_4GpUEe-Q7LKFEq5T_A" type="4006" source="_UealiWe7Ee-PD8xUaUQ5hw" target="_BwwhQGpTEe-Q7LKFEq5T_A">
+    <children xmi:type="notation:DecorationNode" xmi:id="_HtK_5GpUEe-Q7LKFEq5T_A" type="6006">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_HtK_5WpUEe-Q7LKFEq5T_A" x="8" y="-8"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_HtK_5mpUEe-Q7LKFEq5T_A" type="6007">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_HtLm8GpUEe-Q7LKFEq5T_A" x="5" y="5"/>
+    </children>
+    <styles xmi:type="notation:RoutingStyle" xmi:id="_HtK_4WpUEe-Q7LKFEq5T_A"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_HtK_4mpUEe-Q7LKFEq5T_A" fontName="Segoe UI"/>
+    <element xmi:type="eer:RelationshipLink" href="clinica-medica.eer#_zcsJQGpTEe-Q7LKFEq5T_A"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_HtK_42pUEe-Q7LKFEq5T_A" points="[12, -15, -90, 105]$[92, -109, -10, 11]"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_73Y5IGpdEe-Q7LKFEq5T_A" id="(0.01,0.45)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_vCk48GpUEe-Q7LKFEq5T_A" type="4006" source="_UealoWe7Ee-PD8xUaUQ5hw" target="_JTMX8GpTEe-Q7LKFEq5T_A">
+    <children xmi:type="notation:DecorationNode" xmi:id="_vCk49GpUEe-Q7LKFEq5T_A" type="6006">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_vCk49WpUEe-Q7LKFEq5T_A" x="1" y="-15"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_vCk49mpUEe-Q7LKFEq5T_A" type="6007">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_vCk492pUEe-Q7LKFEq5T_A" x="5" y="5"/>
+    </children>
+    <styles xmi:type="notation:RoutingStyle" xmi:id="_vCk48WpUEe-Q7LKFEq5T_A"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_vCk48mpUEe-Q7LKFEq5T_A" fontName="Segoe UI"/>
+    <element xmi:type="eer:RelationshipLink" href="clinica-medica.eer#_vCkR4GpUEe-Q7LKFEq5T_A"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_vCk482pUEe-Q7LKFEq5T_A" points="[0, 2, -36, -80]$[35, 81, -1, -1]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_vCpKYGpUEe-Q7LKFEq5T_A" id="(0.8888888888888888,0.9183673469387755)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_vCpKYWpUEe-Q7LKFEq5T_A" id="(0.49,0.025)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_-RPMwGpaEe-Q7LKFEq5T_A" type="4006" source="_u0YdMGpaEe-Q7LKFEq5T_A" target="_74TmgGpaEe-Q7LKFEq5T_A">
+    <children xmi:type="notation:DecorationNode" xmi:id="_-RPMxGpaEe-Q7LKFEq5T_A" type="6006">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_-RY9wGpaEe-Q7LKFEq5T_A" x="3" y="-8"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_-RlyEGpaEe-Q7LKFEq5T_A" type="6007">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_-RlyEWpaEe-Q7LKFEq5T_A" x="5" y="5"/>
+    </children>
+    <styles xmi:type="notation:RoutingStyle" xmi:id="_-RPMwWpaEe-Q7LKFEq5T_A"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_-RPMwmpaEe-Q7LKFEq5T_A" fontName="Segoe UI"/>
+    <element xmi:type="eer:RelationshipLink" href="clinica-medica.eer#_-ROlsGpaEe-Q7LKFEq5T_A"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_-RPMw2paEe-Q7LKFEq5T_A" points="[5, 5, -90, 0]$[86, 5, -9, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_-RnnQGpaEe-Q7LKFEq5T_A" id="(0.9367088607594937,0.375)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_-RnnQWpaEe-Q7LKFEq5T_A" id="(0.09,0.5)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_EOZuwGpbEe-Q7LKFEq5T_A" type="4006" source="_vHV1cGpaEe-Q7LKFEq5T_A" target="_74TmgGpaEe-Q7LKFEq5T_A">
+    <children xmi:type="notation:DecorationNode" xmi:id="_EOZuxGpbEe-Q7LKFEq5T_A" type="6006">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_EOZuxWpbEe-Q7LKFEq5T_A" x="2" y="8"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_EOZuxmpbEe-Q7LKFEq5T_A" type="6007">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_EOZux2pbEe-Q7LKFEq5T_A" x="5" y="5"/>
+    </children>
+    <styles xmi:type="notation:RoutingStyle" xmi:id="_EOZuwWpbEe-Q7LKFEq5T_A"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_EOZuwmpbEe-Q7LKFEq5T_A" fontName="Segoe UI"/>
+    <element xmi:type="eer:RelationshipLink" href="clinica-medica.eer#_-hhEcGpaEe-Q7LKFEq5T_A"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_EOZuw2pbEe-Q7LKFEq5T_A" points="[-50, 0, 130, 0]$[-130, 0, 50, 0]"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_EOZuyGpbEe-Q7LKFEq5T_A" type="4006" source="_Ueal-2e7Ee-PD8xUaUQ5hw" target="_74TmgGpaEe-Q7LKFEq5T_A">
+    <children xmi:type="notation:DecorationNode" xmi:id="_EOZuzGpbEe-Q7LKFEq5T_A" type="6006">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_EOZuzWpbEe-Q7LKFEq5T_A" x="-1" y="-9"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_EOZuzmpbEe-Q7LKFEq5T_A" type="6007">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_EOZuz2pbEe-Q7LKFEq5T_A" x="5" y="5"/>
+    </children>
+    <styles xmi:type="notation:RoutingStyle" xmi:id="_EOZuyWpbEe-Q7LKFEq5T_A"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_EOZuympbEe-Q7LKFEq5T_A" fontName="Segoe UI"/>
+    <element xmi:type="eer:RelationshipLink" href="clinica-medica.eer#_-ynbgGpaEe-Q7LKFEq5T_A"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_EOZuy2pbEe-Q7LKFEq5T_A" points="[2, 20, 0, -115]$[0, 115, -2, -20]"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_fUgj8GpcEe-Q7LKFEq5T_A" type="4007" source="_u0YdMGpaEe-Q7LKFEq5T_A" target="_ZM3QQGpcEe-Q7LKFEq5T_A">
+    <styles xmi:type="notation:RoutingStyle" xmi:id="_fUgj8WpcEe-Q7LKFEq5T_A"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_fUgj8mpcEe-Q7LKFEq5T_A" fontName="Segoe UI"/>
+    <element xmi:type="eer:AttributeLink" href="clinica-medica.eer#_fUf84GpcEe-Q7LKFEq5T_A"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_fUgj82pcEe-Q7LKFEq5T_A" points="[-9, 11, 30, -37]$[-30, 36, 9, -12]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fUhLAGpcEe-Q7LKFEq5T_A" id="(0.24050632911392406,0.725)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_fl6dAGpcEe-Q7LKFEq5T_A" type="4007" source="_vHV1cGpaEe-Q7LKFEq5T_A" target="_ZkP1gWpcEe-Q7LKFEq5T_A">
+    <styles xmi:type="notation:RoutingStyle" xmi:id="_fl6dAWpcEe-Q7LKFEq5T_A"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_fl6dAmpcEe-Q7LKFEq5T_A" fontName="Segoe UI"/>
+    <element xmi:type="eer:AttributeLink" href="clinica-medica.eer#_flowMGpcEe-Q7LKFEq5T_A"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_fl6dA2pcEe-Q7LKFEq5T_A" points="[40, 20, -130, -65]$[176, 86, 6, 1]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_OWfHIGpdEe-Q7LKFEq5T_A" id="(0.8811881188118812,0.95)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fmKUoGpcEe-Q7LKFEq5T_A" id="(0.43333333333333335,0.16)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_HcnFQGpdEe-Q7LKFEq5T_A" type="4007" source="_urJWwGpcEe-Q7LKFEq5T_A" target="_u0YdMGpaEe-Q7LKFEq5T_A">
+    <styles xmi:type="notation:RoutingStyle" xmi:id="_HcnFQWpdEe-Q7LKFEq5T_A"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_HcnFQmpdEe-Q7LKFEq5T_A" fontName="Segoe UI"/>
+    <element xmi:type="eer:AttributeLink" href="clinica-medica.eer#_HcmeMGpdEe-Q7LKFEq5T_A"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_HcnFQ2pdEe-Q7LKFEq5T_A" points="[-3, -12, 14, 86]$[-15, -102, 2, -4]"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_HcnsUGpdEe-Q7LKFEq5T_A" id="(0.6075949367088608,0.1)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_HqGHoGpdEe-Q7LKFEq5T_A" type="4007" source="_u3fwsWpcEe-Q7LKFEq5T_A" target="_vHV1cGpaEe-Q7LKFEq5T_A">
+    <styles xmi:type="notation:RoutingStyle" xmi:id="_HqGHoWpdEe-Q7LKFEq5T_A"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_HqGHompdEe-Q7LKFEq5T_A" fontName="Segoe UI"/>
+    <element xmi:type="eer:AttributeLink" href="clinica-medica.eer#_HqFgkGpdEe-Q7LKFEq5T_A"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_HqGHo2pdEe-Q7LKFEq5T_A" points="[7, -5, 14, 65]$[44, -74, 51, -4]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_HqGusGpdEe-Q7LKFEq5T_A" id="(0.5222222222222223,0.2)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_M0YbMGpdEe-Q7LKFEq5T_A" id="(0.13861386138613863,0.975)"/>
+  </edges>
 </notation:Diagram>
